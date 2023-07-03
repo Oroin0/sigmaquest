@@ -39,7 +39,7 @@ body, html {
 	padding: 0;
 	background-color: #222;
 	color: #e0d0d0;
-	background-image:url('bg.gif');
+	background-image:url('/img/bg.gif');
 	font-weight: normal;
 	font-family: sans-serif;
     height:100%;	
@@ -48,7 +48,7 @@ body, html {
 #toppanel {
 	height: 48px;
 	background-color: #555;
-	background-image:url('top-bg.gif');
+	background-image:url('/img/top-bg.gif');
 	border-bottom: 3px solid #000;	
 }
 
@@ -104,24 +104,3 @@ body, html {
 .rightgap {
 	padding-right: 16px;
 }
-
-/*
-     FILE ARCHIVED ON 21:28:14 Jun 20, 2010 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 05:58:36 May 14, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 107.749
-  exclusion.robots: 0.076
-  exclusion.robots.policy: 0.068
-  RedisCDXSource: 0.64
-  esindex: 0.008
-  LoadShardBlock: 82.548 (3)
-  PetaboxLoader3.datanode: 109.202 (4)
-  load_resource: 95.697
-  PetaboxLoader3.resolve: 32.038
-*/
